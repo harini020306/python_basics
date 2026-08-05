@@ -11,13 +11,8 @@ def twoSum(nums, target):
 
     return []
 
-# Input from user
-nums = list(map(int, input("Enter numbers separated by spaces: ").split()))
-target = int(input("Enter target: "))
+nums = [1, 9, 8, 10]
+target = 9
 
 result = twoSum(nums, target)
-
-if result:
-    print("Indices:", result)
-else:
-    print("No two numbers add up to the target.")
+print("Indices:", result)
