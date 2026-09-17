@@ -18,7 +18,6 @@ class Solution:
         return prev
 
 
-# create linked list
 def create_list(arr):
     head = ListNode(arr[0])
     temp = head
@@ -30,7 +29,6 @@ def create_list(arr):
     return head
 
 
-# print linked list
 def print_list(head):
     while head:
         print(head.val, end=" ")

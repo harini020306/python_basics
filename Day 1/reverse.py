@@ -9,8 +9,6 @@ def reverseArray(arr):
 
     return arr
 
-
-# Driver Code
 arr = list(map(int, input("Enter array elements separated by spaces: ").split()))
 
 print("Reversed array:", reverseArray(arr))

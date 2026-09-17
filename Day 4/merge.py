@@ -27,7 +27,6 @@ class Solution:
         return dummy.next
 
 
-# ---------- helper functions ----------
 
 def create_list(arr):
     if not arr:
@@ -50,7 +49,6 @@ def print_list(head):
     print()
 
 
-# ---------- input section ----------
 
 print("Enter first sorted list:")
 l1 = list(map(int, input().split()))
@@ -61,7 +59,6 @@ l2 = list(map(int, input().split()))
 list1 = create_list(l1)
 list2 = create_list(l2)
 
-# ---------- run ----------
 
 sol = Solution()
 result = sol.mergeTwoLists(list1, list2)

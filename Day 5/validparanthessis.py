@@ -14,7 +14,6 @@ class Solution:
         return len(stack) == 0
 
 
-# -------- INPUT + RUN --------
 s = input("Enter brackets string: ")
 
 sol = Solution()

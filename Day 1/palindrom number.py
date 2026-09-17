@@ -10,7 +10,6 @@ def isPalindrome(x):
     return original == reverse
 
 
-# Driver Code
 num = int(input("Enter a number: "))
 
 if isPalindrome(num):

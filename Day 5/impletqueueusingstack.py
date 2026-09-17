@@ -25,6 +25,6 @@ q = MyQueue()
 q.push(1)
 q.push(2)
 
-print(q.peek())   # 1
-print(q.pop())    # 1
-print(q.empty())   # False
+print(q.peek())   
+print(q.pop())    
+print(q.empty())   

@@ -14,9 +14,6 @@ class Solution:
 
         return max_len
 
-
-# Driver Code
 obj = Solution()
-
 s = input("Enter the string: ")
 print("Length of the longest substring:", obj.lengthOfLongestSubstring(s))

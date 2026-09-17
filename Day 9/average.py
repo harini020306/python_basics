@@ -8,7 +8,6 @@ def findAverage(arr):
     return average
 
 
-# Driver Code
 arr = list(map(int, input("Enter array elements: ").split()))
 
 print("Average of the array =", findAverage(arr))

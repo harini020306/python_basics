@@ -2,16 +2,13 @@ def generateParenthesis(n):
     result = []
 
     def backtrack(current, open_count, close_count):
-        # If the current string has 2*n characters, it's complete
         if len(current) == 2 * n:
             result.append(current)
             return
 
-        # Add an opening parenthesis if possible
         if open_count < n:
             backtrack(current + "(", open_count + 1, close_count)
 
-        # Add a closing parenthesis if it won't make the string invalid
         if close_count < open_count:
             backtrack(current + ")", open_count, close_count + 1)
 

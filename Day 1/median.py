@@ -10,7 +10,6 @@ def findMedian(arr):
     return median
 
 
-# Driver Code
 arr = list(map(int, input("Enter array elements: ").split()))
 
 print("Median =", findMedian(arr))
