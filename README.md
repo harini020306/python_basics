@@ -1,70 +1,98 @@
 # 🐍 Python Basics – Daily Coding Practice
 
-Welcome to my **Python Basics** repository! 👋
+Welcome to my **Python Daily Coding Practice** repository! 👋
 
-This repository contains my daily Python coding practice, starting from basic programming concepts and gradually progressing toward problem-solving and placement-oriented questions.
+This repository contains my **daily Python problem-solving practice**, with 3–4 coding problems added each day.
 
-The goal is to improve my **Python fundamentals, logical thinking, problem-solving skills, and coding consistency** through regular practice.
-
----
-
-## 📚 Daily Coding Practice
-
-| Day    | Topics / Programs                                                         |
-| ------ | ------------------------------------------------------------------------- |
-| Day 1  | Basic Python Programs                                                     |
-| Day 2  | Conditional Statements                                                    |
-| Day 3  | Loops                                                                     |
-| Day 4  | Number-Based Programs                                                     |
-| Day 5  | String Programs                                                           |
-| Day 6  | List Programs                                                             |
-| Day 7  | Functions                                                                 |
-| Day 8  | Basic Problem Solving                                                     |
-| Day 9  | Python Practice Problems                                                  |
-| Day 10 | Character Frequency, Vowels & Consonants, Largest Number, Duplicate Check |                                                        |
-| ...    | Daily Practice Continues 🚀                                               |
+I started with fundamental Python concepts and gradually progressed toward **DSA and placement-oriented coding problems**. The goal is to improve my programming logic, problem-solving ability, and consistency through daily practice.
 
 ---
 
-## 🎯 Learning Goals
+## 📅 Daily Progress
 
-* Strengthen Python fundamentals
-* Improve logical thinking
-* Practice problem-solving
-* Learn Python data structures
-* Prepare for coding interviews and placements
-* Maintain consistent daily coding practice
-* Gradually solve more challenging problems
+### Day 1
+
+* Median
+* Palindrome Number
+* Reverse
+
+### Day 2
+
+* Group Anagram
+* Maximum Profit
+* Remove Duplicates
+
+### Day 3
+
+* Binary Search
+* Search Insert Position
+* Search in Rotated Sorted Array
+
+### Day 4
+
+* Add Two Numbers
+* Merge
+* Reverse Linked List
+
+### Day 5
+
+* Daily Temperatures
+* Implement Queue Using Stack
+* Valid Parentheses
+
+### Day 6
+
+* Binary Tree Level Order Traversal
+* Invert Binary Tree
+* Maximum Depth of Binary Tree
+
+### Day 7
+
+* Number of Islands
+* Ransom Note
+* Two Sum
+
+### Day 8
+
+* Climbing Stairs
+* Fibonacci
+* Generate Parentheses
+
+### Day 9
+
+* Contains Duplicate
+* Average
+* Longest Substring
+
+### Day 10
+
+* Character Frequency
+* Count Vowels
+* Top Down
+* Two Sum
 
 ---
 
-## 🛠️ Technologies
+## 🧠 Topics Practiced
 
-* **Language:** Python
-* **IDE:** Visual Studio Code
-* **Version Control:** Git & GitHub
+Through this daily practice, I am working with:
 
----
-
-## 📈 Progress
-
-I am following a **daily coding practice routine** and gradually increasing the difficulty of the problems.
-
-```text
-Day 1  → █
-Day 2  → ██
-Day 3  → ███
-Day 4  → ████
-Day 5  → █████
-Day 6  → ██████
-Day 7  → ███████
-Day 8  → ████████
-Day 9  → █████████
-Day 10 → ██████████
-...
-```
-
-**Consistency → Practice → Improvement 🚀**
+* Python Fundamentals
+* Arrays
+* Strings
+* Hashing
+* Searching
+* Sorting
+* Linked Lists
+* Stack
+* Queue
+* Binary Trees
+* Graphs
+* Recursion
+* Dynamic Programming
+* Backtracking
+* Problem Solving
+* Interview-Oriented Coding
 
 ---
 
@@ -83,53 +111,66 @@ python_basics/
 ├── Day 8/
 ├── Day 9/
 ├── Day 10/
-├── ...
 │
 └── README.md
 ```
 
-Each day's folder contains the Python programs practiced on that day.
+---
+
+## 🎯 Goals
+
+* Build strong Python programming fundamentals
+* Improve logical and analytical thinking
+* Strengthen DSA concepts
+* Practice coding interview problems
+* Improve problem-solving speed
+* Maintain a consistent daily coding habit
+* Prepare for technical interviews and placements
 
 ---
 
-## 💡 What I'm Practicing
+## 📈 My Learning Journey
 
-As the days progress, I will cover concepts such as:
-
-* Variables & Data Types
-* Input & Output
-* Conditional Statements
-* Loops
-* Strings
-* Lists
-* Tuples
-* Sets
-* Dictionaries
-* Functions
-* Recursion
-* Searching
-* Sorting
-* Pattern Programs
-* Exception Handling
-* File Handling
-* Object-Oriented Programming
-* Problem Solving
-* Placement-Oriented Coding Problems
-
----
-
-## 🚀 Future Plan
-
-This repository will be updated regularly with new Python programs.
-
-My aim is to progress from **basic Python programs to intermediate and placement-oriented problem solving** while maintaining a consistent coding habit.
+```text
+Python Fundamentals
+        ↓
+Problem Solving
+        ↓
+Arrays & Strings
+        ↓
+Searching & Hashing
+        ↓
+Linked Lists
+        ↓
+Stack & Queue
+        ↓
+Trees & Graphs
+        ↓
+Recursion & Backtracking
+        ↓
+Dynamic Programming
+        ↓
+Placement-Oriented Problems
+```
 
 ---
 
-### 👩‍💻 Author
+## 🚀 Daily Practice
+
+I will continue adding **2–3 or more Python problems every day**, gradually increasing the difficulty and exploring new concepts.
+
+This repository is a record of my **consistent coding practice and learning journey**.
+
+> **Code every day. Learn every day. Improve every day. 🚀**
+
+---
+
+## 👩‍💻 Author
 
 **Harini K**
 
-> Learning every day. Coding every day. Improving every day. 🚀
+GitHub: [harini020306](https://github.com/harini020306)
 
-⭐ Feel free to explore the repository!
+---
+
+⭐ Thanks for visiting my repository!
