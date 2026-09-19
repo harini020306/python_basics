@@ -69,7 +69,19 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Character Frequency
 * Count Vowels
 * Top Down
-* Two Sum
+
+### Day 11
+
+* Second Largest Number
+* Number Frequency
+* Remove Duplicates
+
+### Day 12
+
+* Sum of Even Numbers
+* Move All Zeros to End
+* Find the Missing Number
+
 
 ---
 
