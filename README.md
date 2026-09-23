@@ -82,6 +82,12 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Move All Zeros to End
 * Find the Missing Number
 
+### Day 15
+
+* Armstrong Number
+* GCD of Two Numbers
+* Common Elements Without Duplicates
+  
 ---
 
 ## 🧠 Topics Practiced
