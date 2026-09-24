@@ -87,6 +87,12 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Armstrong Number
 * GCD of Two Numbers
 * Common Elements Without Duplicates
+
+### Day 16
+
+* Perfect Number
+* Largest Odd Number
+* Swap Two Numbers Without Third Variable
   
 ---
 
