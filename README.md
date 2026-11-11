@@ -93,7 +93,13 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Perfect Number
 * Largest Odd Number
 * Swap Two Numbers Without Third Variable
-  
+
+### Day 17 – List Rotation
+
+* Left Rotation of a List
+*  Right Rotation of a List
+*   Rotate a List by K Positions
+
 ---
 
 ## 🧠 Topics Practiced
