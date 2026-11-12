@@ -97,8 +97,8 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 ### Day 17 – List Rotation
 
 * Left Rotation of a List
-*  Right Rotation of a List
-*   Rotate a List by K Positions
+* Right Rotation of a List
+* Rotate a List by K Positions
 
 ### Day 18 – Matrix Operations
 
@@ -106,7 +106,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Sum of Diagonal Elements
 * Sum of Each Row in a Matrix
 
-**Concepts:** User Input, 2D Lists, Nested Loops, Matrix Operations.
 ---
 
 ## 🧠 Topics Practiced
