@@ -106,6 +106,12 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Sum of Diagonal Elements
 * Sum of Each Row in a Matrix
 
+### Day 19 – Dictionary Operations
+
+* Create and Display a Dictionary
+* Search for a Key in a Dictionary
+* Merge Two Dictionaries
+   
 ---
 
 ## 🧠 Topics Practiced
