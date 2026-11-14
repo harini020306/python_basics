@@ -1,0 +1,26 @@
+# Function for addition
+def add(a, b):
+    return a + b
+
+# Function for subtraction
+def subtract(a, b):
+    return a - b
+
+# Function for multiplication
+def multiply(a, b):
+    return a * b
+
+# Function for division
+def divide(a, b):
+    if b == 0:
+        return "Cannot divide by zero"
+    return a / b
+
+# Get user input
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+print("Addition:", add(num1, num2))
+print("Subtraction:", subtract(num1, num2))
+print("Multiplication:", multiply(num1, num2))
+print("Division:", divide(num1, num2))
