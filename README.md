@@ -111,7 +111,14 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Create and Display a Dictionary
 * Search for a Key in a Dictionary
 * Merge Two Dictionaries
-   
+
+### Day 20 – Python Functions
+
+1. Simple Calculator Using Functions
+2. Factorial Using a Function
+3. Prime Number Using a Function
+
+**Concepts:** User Input, Functions, Arguments, Return Statement, Loops.
 ---
 
 ## 🧠 Topics Practiced
