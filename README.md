@@ -114,11 +114,10 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 20 – Python Functions
 
-1. Simple Calculator Using Functions
+* Simple Calculator Using Functions
 2. Factorial Using a Function
 3. Prime Number Using a Function
 
-**Concepts:** User Input, Functions, Arguments, Return Statement, Loops.
 ---
 
 ## 🧠 Topics Practiced
