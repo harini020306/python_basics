@@ -115,8 +115,8 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 ### Day 20 – Python Functions
 
 * Simple Calculator Using Functions
-2. Factorial Using a Function
-3. Prime Number Using a Function
+* Factorial Using a Function
+* Prime Number Using a Function
 
 ---
 
