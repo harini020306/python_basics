@@ -122,22 +122,27 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ## 🧠 Topics Practiced
 
-Through this daily practice, I am working with:
+Through this daily Python coding practice, I have worked on:
 
 * Python Fundamentals
-* Arrays
-* Strings
-* Hashing
-* Searching
-* Sorting
+* Numbers and Mathematical Operations
+* Arrays and Lists
+* Strings and String Manipulation
+* Hashing and Dictionaries
+* Searching Algorithms
+* Sorting and Merging
 * Linked Lists
-* Stack
-* Queue
+* Stack and Queue
 * Binary Trees
 * Graphs
+* Matrix Operations
+* List Rotation
+* Frequency Counting
+* Two Pointers
 * Recursion
 * Dynamic Programming
 * Backtracking
+* Functions and Modular Programming
 * Problem Solving
 * Interview-Oriented Coding
 
