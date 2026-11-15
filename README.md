@@ -118,6 +118,13 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Factorial Using a Function
 * Prime Number Using a Function
 
+### Day 21 – Set Operations
+
+1. Find Common Elements Using Sets
+2. Find Unique Elements in Two Lists
+3. Check Whether One Set Is a Subset of Another
+
+**Concepts:** Sets, Intersection, Symmetric Difference, Subset, User Input.
 ---
 
 ## 🧠 Topics Practiced
