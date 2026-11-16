@@ -126,9 +126,9 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 22 – File Handling
 
-1. Write and Read a File
-2. Count Words in a File
-3. Append Text to an Existing File
+Write and Read a File
+Count Words in a File
+Append Text to an Existing File
 
 ---
 
