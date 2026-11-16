@@ -130,8 +130,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 2. Count Words in a File
 3. Append Text to an Existing File
 
-**Concepts:** File Handling, open(), read(), write(), append(), with Statement.
-**Concepts:** Sets, Intersection, Symmetric Difference, Subset, User Input.
 ---
 
 ## 🧠 Topics Practiced
