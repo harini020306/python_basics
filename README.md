@@ -124,6 +124,13 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Find Unique Elements in Two Lists
 * Check Whether One Set Is a Subset of Another
 
+### Day 22 – File Handling
+
+1. Write and Read a File
+2. Count Words in a File
+3. Append Text to an Existing File
+
+**Concepts:** File Handling, open(), read(), write(), append(), with Statement.
 **Concepts:** Sets, Intersection, Symmetric Difference, Subset, User Input.
 ---
 
