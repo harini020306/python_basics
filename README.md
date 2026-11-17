@@ -134,7 +134,7 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 * Handle Division by Zero
 * Handle Invalid Input
-Handle Multiple Exceptions
+* Handle Multiple Exceptions
 
 **Concepts:** try, except, finally, ValueError, ZeroDivisionError.
 ---
