@@ -136,7 +136,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Handle Invalid Input
 * Handle Multiple Exceptions
 
-**Concepts:** try, except, finally, ValueError, ZeroDivisionError.
 ---
 
 ## 🧠 Topics Practiced
