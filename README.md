@@ -132,9 +132,9 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 23 – Exception Handling
 
-1. Handle Division by Zero
-2. Handle Invalid Input
-3. Handle Multiple Exceptions
+Handle Division by Zero
+Handle Invalid Input
+Handle Multiple Exceptions
 
 **Concepts:** try, except, finally, ValueError, ZeroDivisionError.
 ---
