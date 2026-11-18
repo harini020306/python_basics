@@ -136,6 +136,13 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Handle Invalid Input
 * Handle Multiple Exceptions
 
+### Day 24 – Object-Oriented Programming
+
+1. Create a Student Class
+2. Create a Bank Account Class
+3. Demonstrate Inheritance
+
+**Concepts:** Classes, Objects, Constructors, Methods, self, Inheritance, super().
 ---
 
 ## 🧠 Topics Practiced
