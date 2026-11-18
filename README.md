@@ -138,9 +138,9 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 24 – Object-Oriented Programming
 
-Create a Student Class
-Create a Bank Account Class
-Demonstrate Inheritance
+*Create a Student Class
+*Create a Bank Account Class
+*Demonstrate Inheritance
    
 ---
 
