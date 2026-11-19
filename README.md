@@ -141,7 +141,14 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Create a Student Class
 * Create a Bank Account Class
 * Demonstrate Inheritance
-   
+
+### Day 25 – OOP Concepts
+
+1. Encapsulation – Bank Account
+2. Polymorphism – Area Calculation
+3. Method Overriding – Animal Sounds
+
+**Concepts:** Encapsulation, Private Variables, Polymorphism, Method Overriding, Classes and Objects.
 ---
 
 ## 🧠 Topics Practiced
