@@ -148,7 +148,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 2. Polymorphism – Area Calculation
 3. Method Overriding – Animal Sounds
 
-**Concepts:** Encapsulation, Private Variables, Polymorphism, Method Overriding, Classes and Objects.
 ---
 
 ## 🧠 Topics Practiced
