@@ -145,8 +145,8 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 ### Day 25 – OOP Concepts
 
 * Encapsulation – Bank Account
-Polymorphism – Area Calculation
-Method Overriding – Animal Sounds
+* Polymorphism – Area Calculation
+* Method Overriding – Animal Sounds
 
 ---
 
