@@ -148,6 +148,14 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Polymorphism – Area Calculation
 * Method Overriding – Animal Sounds
 
+### Day 26 – Python Modules
+
+1. Import and Use the Math Module
+2. Generate Random Numbers
+3. Create and Import Your Own Module
+
+**Concepts:** Modules, Import, Math, Random,
+Custom Modules, Code Reusability.
 ---
 
 ## 🧠 Topics Practiced
