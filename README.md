@@ -150,7 +150,7 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 26 – Python Modules
 
-Import and Use the Math Module
+* Import and Use the Math Module
 Generate Random Numbers
 Create and Import Your Own Module
 
