@@ -154,8 +154,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 2. Generate Random Numbers
 3. Create and Import Your Own Module
 
-**Concepts:** Modules, Import, Math, Random,
-Custom Modules, Code Reusability.
 ---
 
 ## 🧠 Topics Practiced
