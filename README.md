@@ -150,9 +150,9 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 26 – Python Modules
 
-1. Import and Use the Math Module
-2. Generate Random Numbers
-3. Create and Import Your Own Module
+Import and Use the Math Module
+Generate Random Numbers
+Create and Import Your Own Module
 
 ---
 
