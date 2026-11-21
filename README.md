@@ -154,6 +154,14 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Generate Random Numbers
 * Create and Import Your Own Module
 
+### Day 27 – Lambda, Map and Filter
+
+1. Lambda Function – Find the Square
+2. Map Function – Double Each Number
+3. Filter Function – Find Even Numbers
+
+**Concepts:** Lambda, Anonymous Functions, Map,
+Filter, List Processing.
 ---
 
 ## 🧠 Topics Practiced
