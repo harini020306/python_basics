@@ -157,8 +157,8 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 ### Day 27 – Lambda, Map and Filter
 
 * Lambda Function – Find the Square
-Map Function – Double Each Number
-Filter Function – Find Even Numbers
+* Map Function – Double Each Number
+* Filter Function – Find Even Numbers
 
 ---
 
