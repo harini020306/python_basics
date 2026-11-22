@@ -160,6 +160,14 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Map Function – Double Each Number
 * Filter Function – Find Even Numbers
 
+### Day 28 – Python String Operations
+
+1. Reverse a String
+2. Count Character Frequency
+3. Check Whether Two Strings Are Anagrams
+
+**Concepts:** String Slicing, Dictionaries, Character
+Frequency, String Methods, Sorting and Comparison.
 ---
 
 ## 🧠 Topics Practiced
