@@ -166,8 +166,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 2. Count Character Frequency
 3. Check Whether Two Strings Are Anagrams
 
-**Concepts:** String Slicing, Dictionaries, Character
-Frequency, String Methods, Sorting and Comparison.
 ---
 
 ## 🧠 Topics Practiced
