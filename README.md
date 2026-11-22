@@ -162,9 +162,9 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 28 – Python String Operations
 
-1. Reverse a String
-2. Count Character Frequency
-3. Check Whether Two Strings Are Anagrams
+Reverse a String
+Count Character Frequency
+Check Whether Two Strings Are Anagrams
 
 ---
 
