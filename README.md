@@ -169,8 +169,8 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 ### Day 29 – Searching and Sorting
 
 * Linear Search
-Bubble Sort
-Binary Search
+* Bubble Sort
+* Binary Search
 
 ---
 
