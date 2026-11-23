@@ -166,6 +166,14 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Count Character Frequency
 * Check Whether Two Strings Are Anagrams
 
+### Day 29 – Searching and Sorting
+
+1. Linear Search
+2. Bubble Sort
+3. Binary Search
+
+**Concepts:** Searching, Sorting, Loops, List Traversal,
+Swapping and Time Complexity.
 ---
 
 ## 🧠 Topics Practiced
