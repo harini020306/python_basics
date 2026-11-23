@@ -172,8 +172,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 2. Bubble Sort
 3. Binary Search
 
-**Concepts:** Searching, Sorting, Loops, List Traversal,
-Swapping and Time Complexity.
 ---
 
 ## 🧠 Topics Practiced
