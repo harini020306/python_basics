@@ -172,6 +172,14 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 * Bubble Sort
 * Binary Search
 
+### Day 30 – Python Recursion
+
+1. Factorial Using Recursion
+2. Fibonacci Series Using Recursion
+3. Sum of Digits Using Recursion
+
+**Concepts:** Recursion, Base Condition, Function Calls,
+Factorial, Fibonacci and Digit Processing.
 ---
 
 ## 🧠 Topics Practiced
