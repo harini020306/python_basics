@@ -178,8 +178,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 2. Fibonacci Series Using Recursion
 3. Sum of Digits Using Recursion
 
-**Concepts:** Recursion, Base Condition, Function Calls,
-Factorial, Fibonacci and Digit Processing.
 ---
 
 ## 🧠 Topics Practiced
