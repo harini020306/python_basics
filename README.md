@@ -174,9 +174,9 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 30 – Python Recursion
 
-1. Factorial Using Recursion
-2. Fibonacci Series Using Recursion
-3. Sum of Digits Using Recursion
+Factorial Using Recursion
+Fibonacci Series Using Recursion
+Sum of Digits Using Recursion
 
 ---
 
