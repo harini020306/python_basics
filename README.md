@@ -180,9 +180,9 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 
 ### Day 31 – List Comprehension
 
-1. Generate Squares Using List Comprehension
-2. Filter Positive Numbers
-3. Convert Words into Uppercase
+Generate Squares Using List Comprehension
+Filter Positive Numbers
+Convert Words into Uppercase
 
 ---
 
