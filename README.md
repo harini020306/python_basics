@@ -184,8 +184,6 @@ I started with fundamental Python concepts and gradually progressed toward **DSA
 2. Filter Positive Numbers
 3. Convert Words into Uppercase
 
-**Concepts:** List Comprehension, Filtering,
-List Transformation, Conditional Expressions.
 ---
 
 ## 🧠 Topics Practiced
